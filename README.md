@@ -1,2 +1,1 @@
-# Browser2
-Another simple web browser
+Простенькая обёртка вокруг control WebBrowser. Написано на WinForms.
